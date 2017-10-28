@@ -1,8 +1,8 @@
 <h1 align="center">DLL Injection with Assembly Public Source Repository</h1>
 
-Click here for **[DLL Making Tutorial](https://github.com/Dentrax/DLL-Injection-with-Assembly/dll_tutorial)**
+Click here for **[DLL Making Tutorial](https://github.com/Dentrax/DLL-Injection-with-Assembly/tree/master/dll_tutorial)**
 
-Click here for **[Injection Tutorial](https://github.com/Dentrax/DLL-Injection-with-Assembly/inject_tutorial)**
+Click here for **[Injection Tutorial](https://github.com/Dentrax/DLL-Injection-with-Assembly/tree/master/inject_tutorial)**
 
 [What It Is](#what-it-is)
 
@@ -35,7 +35,7 @@ DLL-Injection-with-Assembly guide for DLL Injection is an advanced and detailed 
 
 ## How To Use
 
-Just research tutorials from **[tutorial page](https://github.com/Dentrax/DLL-Injection-with-Assembly/inject_tutorial)** and learn it gradually.
+Just research tutorials from **[tutorial page](https://github.com/Dentrax/DLL-Injection-with-Assembly/tree/master/inject_tutorial)** and learn it gradually.
 
 ## About
 

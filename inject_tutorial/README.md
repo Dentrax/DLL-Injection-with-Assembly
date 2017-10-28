@@ -1,8 +1,8 @@
 <h1 align="center">Injection Tutorial Source</h1>
 
-**[list_offsets.asm](https://github.com/Dentrax/DLL-Injection-with-Assembly/list_offsets.asm)** file was used as a `Temp` file in this tutorial. 
+**[list_offsets.asm](https://github.com/Dentrax/DLL-Injection-with-Assembly/blob/master/list_offsets.asm)** file was used as a `Temp` file in this tutorial. 
 
-**[list_opcodes.asm](https://github.com/Dentrax/DLL-Injection-with-Assembly/list_opcodes.asm)** file was used for inject `Assembly` codes.
+**[list_opcodes.asm](https://github.com/Dentrax/DLL-Injection-with-Assembly/blob/master/list_opcodes.asm)** file was used for inject `Assembly` codes.
 
 * Used was sample.exe and sample.dll in this example.
 
